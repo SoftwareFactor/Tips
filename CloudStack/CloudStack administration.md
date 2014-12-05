@@ -11,3 +11,9 @@ https://support.getcloudservices.com/entries/22002407-CloudStack-Configure-VPN-a
 
 #### Connecting to CloudStack VPN from Linux
 https://portal.redbridge.se/faq/getting-started/accessing-your-instance-from-the-outside/
+
+#### Connecting to CloudStack VPN from Windows
+https://cloudstack.apache.org/docs/en-US/Apache_CloudStack/4.0.2/html/Installation_Guide/vpn.html
+https://sysadminspot.com/server-administration/error-connecting-to-virtual-private-network-pptp-error-850-the-extensible-authentication-protocol-type-required-for-authentication/
+http://superuser.com/a/313991/396340
+
