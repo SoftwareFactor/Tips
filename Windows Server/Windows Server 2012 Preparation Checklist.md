@@ -1,4 +1,4 @@
-# Windows Server 2012 Preparation Checklist
+# Windows Server 2012 R2 Preparation Checklist
 
 This involves quite a few steps, but if you do them in defined order, you should survive :)
 
