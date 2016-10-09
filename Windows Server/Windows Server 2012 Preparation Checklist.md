@@ -9,8 +9,8 @@ This involves quite a few steps, but if you do them in defined order, you should
 4. Make sure this is checked "Allow connections only from computers running Remote Desktop with Network Level Authentication (recommended)" and click OK.
 
 ### Install Web Platform Installer
-1. Google and install
-
+1. Download from https://www.microsoft.com/web/downloads/platform.aspx
+2. Install
 
 ### Install IIS
 1. Open "Server Manager"
@@ -23,7 +23,7 @@ This involves quite a few steps, but if you do them in defined order, you should
 2. From "Server Roles" install "Web Server (IIS) > Management Tools > Management Service"
 3. Close "Server Manager"
 4. Install "Web Platform Installer" (if not yet exists)
-5. Install "Web Deploy 3.5" via "Web Platform Installer"
+5. Install "Web Deploy 3.6 without bundled SQL support" via "Web Platform Installer"
 6. Open IIS
 7. Click on the server (main) node on the left menu
 8. Double click on "Management Service" icon
