@@ -1,4 +1,4 @@
-# Azure App Service CI
+# Azure App Service Continuous Deployment from Gitlab
 
 ## Configure App Service to fetch code from your git branch
 1. Open app service in Azure Portal
