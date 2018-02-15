@@ -3,7 +3,7 @@
 ## Configure App Service to fetch code from your git branch
 1. Open app service in Azure Portal
 2. Go to "Deployment options"
-3. Configure deployment from an external Git repository and your chosen Git branch
+3. Configure deployment from an external Git repository and your chosen Git branch. Use SSH access URL for configuration (git@...)
 
 ## Add permissions for App Service to access your repository in Gitlab
 1. Open app service in Azure Portal
