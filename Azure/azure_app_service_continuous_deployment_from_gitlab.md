@@ -1,5 +1,12 @@
 # Azure App Service Continuous Deployment from Gitlab
 
+## Configure a project which should be deployed 
+1. Create a ".deployment" file to the root of Git repository with the following content. "project" variable should point to the main project file that needs to be deployed:
+  ```
+  [config]
+  project = Test.API/Test.API.csproj
+  ```
+
 ## Configure App Service to fetch code from your git branch
 1. Open app service in Azure Portal
 2. Go to "Deployment options"
