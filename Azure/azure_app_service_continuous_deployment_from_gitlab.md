@@ -6,6 +6,7 @@
   [config]
   project = Test.API/Test.API.csproj
   ```
+_Note: for more options related to this, please check: https://github.com/projectkudu/kudu/wiki/Customizing-deployments_
 
 ## Configure App Service to fetch code from your git branch
 1. Open app service in Azure Portal
